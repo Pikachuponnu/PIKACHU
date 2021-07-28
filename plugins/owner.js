@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham-Muhammed - http://Wa.me/+919400374046*\n* *\n🔰Youtube: https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
+    r_text[1] = "*╔═════😎PIKACHU BOT😎═════╗*\n           \n*⚜═pikachu═⚜*\n\n*owner  - http://Wa.me/+919544537858*\n* *\n🔰Instagram: http://Www.instagram.com/pikachu_v.3 *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: PIKACHU*"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "Pikachu"
 
     
 
